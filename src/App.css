@@ -1,3 +1,6 @@
+body {
+  background-color: #facdf0;
+}
 .App {
   text-align: center;
 }
@@ -35,4 +38,19 @@
   to {
     transform: rotate(360deg);
   }
+}
+.Form {
+  color: #280e73;
+  font-family: arial;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}
+.formulaire {
+  margin: 450px;
+  margin-top: 50px;
+}
+.envoyer {
+  margin-top: 30px;
+  border-radius: 10px;
 }
